@@ -1,3 +1,12 @@
+Umbraco8 ContentSpinner ContentApp
+-----------------------------------------------
+
+This is a content app to assist with spinning content. This is a great tool for bloggers who want unique content but don't want to write this themselves. If you find an article you like online then you can simply copy and paste this into the content app. The app will then spin this into unique words.
+
+The app is free but relies on SpinBot api which is a very cheap paid API service.
+
+For trial purposes I have added an API key with some credits. Once you have reviewed the app please create your own API key.
+
 -------------------------------------
 CONFIGURATION INSTRUCTIONS
 -------------------------------------
@@ -49,13 +58,13 @@ IMPORTANT! WHAT IS TEST MODE?
 -------------------------------------
 For the purpose of evaluating this content app I have added my own API Key. This is encrypted and compiled within a dll so you wont be able to see this in your web.config. 
 
-If you don’t add an API key in your <appSettings> then this content app will assume you are using it for evaluation purposes. You will still have full functionality but there will be a red message at the top of the app reminding you that you’re still in ‘TestMode’. Once you add your API Key into your <appSettings> file then this message will disappear.
+If you donâ€™t add an API key in your <appSettings> then this content app will assume you are using it for evaluation purposes. You will still have full functionality but there will be a red message at the top of the app reminding you that youâ€™re still in â€˜TestModeâ€™. Once you add your API Key into your <appSettings> file then this message will disappear.
 
-I’m happy for everyone to use my API Key for evaluation purposes but please do not abuse it. I have added 1000 credits and I may top up from time to time as long as people are not abusing the service and eating up all the credits. 
+Iâ€™m happy for everyone to use my API Key for evaluation purposes but please do not abuse it. I have added 1000 credits and I may top up from time to time as long as people are not abusing the service and eating up all the credits. 
 
 Once you have reviewed the app then please try and create your own API Key as soon as possible.
 
-If you need help with this, please don’t hesitate to drop me an email at.
+If you need help with this, please donâ€™t hesitate to drop me an email at.
 david@recsitedesign.com
 
 
