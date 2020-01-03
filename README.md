@@ -1,0 +1,1 @@
+Umbraco8_ContentSpinner_ContentApp
